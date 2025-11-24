@@ -63,7 +63,7 @@ Un projet visant à automatiser l'acquisition et la fiabilisation des données d
 N'hésitez pas à me contacter pour discuter de mes projets ou d'opportunités en analyse de données, et explorez les autres répertoires pour **plus d'exemples de scripts SQL ou Python** !
 
 * **[LinkedIn](https://www.linkedin.com/in/aurelien-rimoux)**
-* **Email** : aurelien.rimoux.pro@gmail.com
+* **[Email](mailto:aurelien.rimoux.pro@gmail.com)**
 
 ---
 *Développé avec la passion de la donnée. Merci de votre visite !*
